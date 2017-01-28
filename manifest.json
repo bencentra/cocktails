@@ -1,0 +1,274 @@
+{
+  "whiskey": {
+    "count": 9,
+    "drinks": {
+      "manhattan": [
+        "whiskey",
+        "sweet vermouth",
+        "bitters"
+      ],
+      "old fashioned": [
+        "whiskey",
+        "sugar",
+        "bitters"
+      ],
+      "mint julep": [
+        "whiskey",
+        "mint",
+        "sugar"
+      ],
+      "revolver": [
+        "whiskey",
+        "kahlua",
+        "bitters"
+      ],
+      "boulevardier": [
+        "whiskey",
+        "campari",
+        "sweet vermouth"
+      ],
+      "whiskey ginger": [
+        "whiskey",
+        "ginger ale"
+      ],
+      "bourbon peach tea": [
+        "whiskey",
+        "peach tea"
+      ],
+      "gold rush": [
+        "whiskey",
+        "lime",
+        "honey"
+      ],
+      "that good one": [
+        "whiskey",
+        "grapefruit juice",
+        "honey"
+      ]
+    },
+    "mixers": {
+      "whiskey": 9,
+      "bitters": 3,
+      "sugar": 2,
+      "sweet vermouth": 2,
+      "honey": 2,
+      "grapefruit juice": 1,
+      "mint": 1,
+      "ginger ale": 1,
+      "peach tea": 1,
+      "lime": 1,
+      "kahlua": 1,
+      "campari": 1
+    }
+  },
+  "gin": {
+    "count": 8,
+    "drinks": {
+      "dirty martini": [
+        "gin",
+        "dry vermouth",
+        "olive juice"
+      ],
+      "negroni": [
+        "gin",
+        "campari",
+        "sweet vermouth"
+      ],
+      "gin and tonic": [
+        "gin",
+        "tonic"
+      ],
+      "gin gimlet": [
+        "gin",
+        "lime juice",
+        "sugar"
+      ],
+      "gin buck": [
+        "gin",
+        "ginger ale",
+        "lemon juice"
+      ],
+      "gin and ginger": [
+        "gin",
+        "ginger beer"
+      ],
+      "green ghost": [
+        "gin",
+        "green chartreuse",
+        "lime juice"
+      ],
+      "brown gin": [
+        "gin",
+        "bitters"
+      ]
+    },
+    "mixers": {
+      "gin": 8,
+      "lime juice": 2,
+      "olive juice": 1,
+      "campari": 1,
+      "sweet vermouth": 1,
+      "dry vermouth": 1,
+      "bitters": 1,
+      "sugar": 1,
+      "ginger ale": 1,
+      "lemon juice": 1,
+      "tonic": 1,
+      "green chartreuse": 1,
+      "ginger beer": 1
+    }
+  },
+  "vodka": {
+    "count": 7,
+    "drinks": {
+      "white russian": [
+        "vodka",
+        "kahlua",
+        "cream"
+      ],
+      "vodka gimlet": [
+        "vodka",
+        "lime juice",
+        "sugar"
+      ],
+      "moscow mule": [
+        "vodka",
+        "ginger beer",
+        "lime juice"
+      ],
+      "greyhound": [
+        "vodka",
+        "grapefruit juice"
+      ],
+      "screwdriver": [
+        "vodka",
+        "orange juice"
+      ],
+      "fuzzy navel": [
+        "vodka",
+        "orange juice",
+        "peach schnapps"
+      ],
+      "vodka cranberry": [
+        "vodka",
+        "cranberry juice"
+      ]
+    },
+    "mixers": {
+      "vodka": 7,
+      "lime juice": 2,
+      "orange juice": 2,
+      "kahlua": 1,
+      "cream": 1,
+      "sugar": 1,
+      "ginger beer": 1,
+      "grapefruit juice": 1,
+      "peach schnapps": 1,
+      "cranberry juice": 1
+    }
+  },
+  "dark rum": {
+    "count": 3,
+    "drinks": {
+      "cuba libre": [
+        "dark rum",
+        "cola",
+        "lime juice"
+      ],
+      "rum and coke": [
+        "dark rum",
+        "cola"
+      ],
+      "dark and stormy": [
+        "dark rum",
+        "ginger beer"
+      ]
+    },
+    "mixers": {
+      "dark rum": 3,
+      "cola": 2,
+      "lime juice": 1,
+      "ginger beer": 1
+    }
+  },
+  "tequila": {
+    "count": 3,
+    "drinks": {
+      "tequila sunrise": [
+        "tequila",
+        "orange juice",
+        "grenadine"
+      ],
+      "margarita": [
+        "tequila",
+        "lime juice",
+        "triple sec"
+      ],
+      "paloma": [
+        "tequila",
+        "grapefruit juice"
+      ]
+    },
+    "mixers": {
+      "tequila": 3,
+      "orange juice": 1,
+      "grenadine": 1,
+      "lime juice": 1,
+      "triple sec": 1,
+      "grapefruit juice": 1
+    }
+  },
+  "white rum": {
+    "count": 2,
+    "drinks": {
+      "mojito": [
+        "white rum",
+        "lime juice",
+        "mint",
+        "soda"
+      ],
+      "daiquiri": [
+        "white rum",
+        "lime juice",
+        "sugar"
+      ]
+    },
+    "mixers": {
+      "white rum": 2,
+      "lime juice": 2,
+      "mint": 1,
+      "soda": 1,
+      "sugar": 1
+    }
+  },
+  "campari": {
+    "count": 1,
+    "drinks": {
+      "americano": [
+        "campari",
+        "sweet vermouth",
+        "soda"
+      ]
+    },
+    "mixers": {
+      "campari": 1,
+      "sweet vermouth": 1,
+      "soda": 1
+    }
+  },
+  "brandy": {
+    "count": 1,
+    "drinks": {
+      "sidecar": [
+        "brandy",
+        "triple sec",
+        "lemon juice"
+      ]
+    },
+    "mixers": {
+      "brandy": 1,
+      "triple sec": 1,
+      "lemon juice": 1
+    }
+  }
+}
